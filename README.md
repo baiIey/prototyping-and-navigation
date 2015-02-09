@@ -2,7 +2,7 @@
 Using Xcode to implement the flow between the screens of an application. Emulating the flow of the Dropbox app from the signed out state to the basic signed in state.
 
 #### Time spent
-8 hours spent in total
+12 hours spent in total
 
 #### Completed user stories
  * ✓ User can tap through the 3 welcome screens.
