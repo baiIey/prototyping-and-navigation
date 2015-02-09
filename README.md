@@ -39,9 +39,13 @@ I also struggled to understand the relationship of navigation views with their c
 
 I corrected this by ensuring that content used push when using navigation views.
 
+As an aside, when using push, it seems like transitions between view controllers are handled by the the navigation view controller, but the segue options available in the various dropdown menus aren't as robust as those offered for modals.
+
+
 ![Storyboard](storyboard.png)
 
 In the end, I was surprised how many view controllers were involved, and suspect we can get the number with conditionals.
+
 
 ##### Popping View Controllers
 When popping view controllers, I wanted to find there a way to go back to the root view controller, which is just below the navigation controller. With **Tim Lee**'s guidance, I was able to modify the code that allows us to go back one-level:
