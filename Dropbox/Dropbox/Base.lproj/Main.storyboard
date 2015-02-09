@@ -913,7 +913,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ddq-oc-IZJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2351" y="3571"/>
+            <point key="canvasLocation" x="2603" y="3535"/>
         </scene>
         <!--Favorites-->
         <scene sceneID="S99-y0-HIE">
@@ -934,7 +934,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FWf-3u-z4r" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2798" y="3571"/>
+            <point key="canvasLocation" x="3050" y="3535"/>
         </scene>
         <!--Settings-->
         <scene sceneID="mqF-N6-vUF">
@@ -975,7 +975,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4KC-EP-g9a" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3216" y="3571"/>
+            <point key="canvasLocation" x="3468" y="3535"/>
         </scene>
         <!--Existing Files-->
         <scene sceneID="oUy-xx-pfA">
@@ -1006,7 +1006,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="G3U-jw-o5I" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1909" y="3571"/>
+            <point key="canvasLocation" x="2161" y="3535"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="inr-QO-LvD">
@@ -1028,7 +1028,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LdE-dv-bZ1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2562" y="1978"/>
+            <point key="canvasLocation" x="2814" y="1971"/>
         </scene>
         <!--Settings-->
         <scene sceneID="FAK-yw-xOi">
@@ -1047,7 +1047,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5Wx-Ar-4Aa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3216" y="2803"/>
+            <point key="canvasLocation" x="3468" y="2767"/>
         </scene>
         <!--Favorites-->
         <scene sceneID="Plt-O9-2Dr">
@@ -1069,7 +1069,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="w2Q-DC-Qgv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2798" y="2803"/>
+            <point key="canvasLocation" x="3050" y="2767"/>
         </scene>
         <!--Photos-->
         <scene sceneID="umu-NB-eC7">
@@ -1088,7 +1088,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y8l-ha-ffN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2351" y="2803"/>
+            <point key="canvasLocation" x="2603" y="2767"/>
         </scene>
         <!--Files-->
         <scene sceneID="Nxq-Cz-bdC">
@@ -1107,7 +1107,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3le-fe-l46" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1909" y="2803"/>
+            <point key="canvasLocation" x="2161" y="2767"/>
         </scene>
     </scenes>
     <resources>
@@ -1142,10 +1142,10 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="gpC-wg-hL6"/>
-        <segue reference="IY7-ch-t6l"/>
-        <segue reference="UTL-vZ-hI4"/>
-        <segue reference="VgO-sT-RVm"/>
         <segue reference="Bsn-oA-5ZK"/>
+        <segue reference="OUk-as-p13"/>
+        <segue reference="w0r-mF-YRG"/>
+        <segue reference="UTL-vZ-hI4"/>
+        <segue reference="IY7-ch-t6l"/>
     </inferredMetricsTieBreakers>
 </document>
